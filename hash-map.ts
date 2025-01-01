@@ -40,3 +40,4 @@ studentMap.forEach((val, key) => {
 
 console.log("After deletion:", studentMap);
 console.log("After deletion:", studentMap);
+console.log("After deletion:", studentMap);
